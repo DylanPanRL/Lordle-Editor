@@ -1153,7 +1153,7 @@ this.wordle.bundle = function(e) {
     }
     function Da(e) {
         var a, s = Ga(e);
-        return a = s % La.length,
+        return a = s,
         La[a]
     }
     function Ga(e) {
